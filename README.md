@@ -1,7 +1,7 @@
 # Hamza Osailan
 
 ## Skills
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <a href="#"><img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" alt="Java Logo" width="50" height="50"></a>
     <a href="#"><img src="https://brandslogos.com/wp-content/uploads/thumbs/javascript-logo-vector.svg" alt="JavaScript Logo" width="50" height="50"></a>
     <a href="#"><img src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg" alt="PHP Logo" width="50" height="50"></a>
