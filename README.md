@@ -12,7 +12,7 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/mongodb-logo-vector.svg" alt="MongoDB Logo" width="50" height="50"></a>
 <a href="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js Logo" width="50" height="50"></a>
     <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" alt="Node.js Logo" width="50" height="50"></a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/tailwind-css-logo-vector.svg" alt="Tailwind CSS Logo" width="50" height="50"></a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATailwind_CSS_Logo.svg&psig=AOvVaw2yCRGe948egizxHH7Z2HvR&ust=1712950749743000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjrovr0uoUDFQAAAAAdAAAAABAa" alt="Tailwind CSS Logo" width="50" height="50"></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/typescript-logo-vector.svg" alt="TypeScript Logo" width="50" height="50"></a>
 </p>
 
