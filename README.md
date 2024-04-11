@@ -10,10 +10,11 @@
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/spring-logo-vector.svg" alt="Spring Boot Logo" width="50" height="50"></a>
     <a href="https://angular.io/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg" alt="Angular Logo" width="50" height="50"></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/mongodb-logo-vector.svg" alt="MongoDB Logo" width="50" height="50"></a>
-    <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/expressjs-logo-vector.svg" alt="Express.js Logo" width="50" height="50"></a>
+<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/expressjs-logo-vector.svg" alt="Express.js Logo" width="50" height="50"></a>
     <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" alt="Node.js Logo" width="50" height="50"></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/tailwind-css-logo-vector.svg" alt="Tailwind CSS Logo" width="50" height="50"></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/typescript-logo-vector.svg" alt="TypeScript Logo" width="50" height="50"></a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/tailwind-css-logo-vector.svg" alt="Tailwind CSS Logo" width="50" height="50"></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/typescript-logo-vector.svg" alt="TypeScript Logo" width="50" height="50"></a>
+
 </p>
 
 
