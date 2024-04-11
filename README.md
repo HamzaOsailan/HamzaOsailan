@@ -18,7 +18,7 @@
 
 
 ## About Me
-I am a recent computer science graduate passionate about software development and quality engineering. With a strong foundation in Java and a keen interest in test automation, I am eager to contribute to innovative projects and continue learning in the dynamic field of technology.
+I am a recent computer science graduate passionate about software development and QA tester. With a strong foundation a keen interest in test automation, I am eager to contribute to innovative projects and continue learning in the dynamic field of technology.|
 
 ## Education
 - Bachelor of Science in Computer Science, Taibah University, 2022
