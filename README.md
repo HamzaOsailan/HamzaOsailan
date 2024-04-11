@@ -5,7 +5,7 @@
     <a href="#"><img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" alt="Java Logo" width="50" height="50"></a>
     <a href="#"><img src="https://brandslogos.com/wp-content/uploads/thumbs/javascript-logo-vector.svg" alt="JavaScript Logo" width="50" height="50"></a>
     <a href="#"><img src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg" alt="PHP Logo" width="50" height="50"></a>
-    <a href="#"><img src="https://brandslogos.com/wp-content/uploads/thumbs/sql-logo-vector.svg" alt="SQL Logo" width="50" height="50"></a>
+    <a href="#"><img src="[https://brandslogos.com/wp-content/uploads/thumbs/sql-logo-vector.svg](https://e7.pngegg.com/pngimages/354/683/png-clipart-logo-mysql-database-phpmyadmin-oracle-sql-logo-blue-text.png)" alt="SQL Logo" width="50" height="50"></a>
     <a href="#"><img src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector.svg" alt="React Logo" width="50" height="50"></a>
     <a href="#"><img src="https://brandslogos.com/wp-content/uploads/thumbs/spring-logo-vector.svg" alt="Spring Boot Logo" width="50" height="50"></a>
     <a href="#"><img src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg" alt="Angular Logo" width="50" height="50"></a>
