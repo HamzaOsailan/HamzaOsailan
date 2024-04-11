@@ -14,7 +14,6 @@
     <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" alt="Node.js Logo" width="50" height="50"></a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/tailwind-css-logo-vector.svg" alt="Tailwind CSS Logo" width="50" height="50"></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://brandslogos.com/wp-content/uploads/thumbs/typescript-logo-vector.svg" alt="TypeScript Logo" width="50" height="50"></a>
-
 </p>
 
 
