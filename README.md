@@ -27,7 +27,7 @@ I am a recent computer science graduate passionate about software development an
 - Information Technology and Technology Trainer (Tamher Program, 6 months)
   
 ## Bootcamp
-- automation engineering ,Saudi Authority for Data and Artificial Intelligence , 6 months
+- automation engineering ,Saudi Authority for Data and Artificial Intelligence , 14 weeks
   
 ## Contact Me
 - Email: hamzaosailan@hotmail.com
