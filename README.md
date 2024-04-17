@@ -25,10 +25,10 @@ I am a recent computer science graduate passionate about software development an
 
 ## Experience
 - Information Technology and Technology Trainer (Tamher Program, 6 months)
-- 
+  
 ## Bootcamp
 - automation engineering ,Saudi Authority for Data and Artificial Intelligence , 6 months
-- 
+  
 ## Contact Me
 - Email: hamzaosailan@hotmail.com
 - LinkedIn: [Hamza Osailan](https://www.linkedin.com/in/hamza-osailan)
