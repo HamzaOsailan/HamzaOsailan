@@ -2,38 +2,38 @@
 
 Software Engineer | Full-Stack Developer
 
-I build scalable web applications using modern technologies such as React, Spring Boot, Node.js, and Laravel.
+I build full-stack web applications using modern technologies like React, Spring Boot, Node.js, and Laravel.
 
 ## Tech Stack
 
-Frontend:
-React.js
-Tailwind CSS
-JavaScript
+Frontend
+- React.js
+- Tailwind CSS
+- JavaScript
 
-Backend:
-Spring Boot
-Node.js
-Laravel
-REST APIs
+Backend
+- Spring Boot
+- Node.js
+- Laravel
+- REST APIs
 
-Databases:
-MongoDB
-MySQL
+Databases
+- MongoDB
+- MySQL
 
-Tools:
-Git
-CI/CD
-Azure DevOps
-Jira
+Tools
+- Git
+- Azure DevOps
+- CI/CD
+- Jira
 
 ## Featured Projects
 
-Fast Food Ordering Website (MERN)
-Car Advertisement Platform (Laravel)
-Task Management System (Spring Boot + React)
+- Fast Food Ordering Website (MERN Stack)
+- Car Advertisement Platform (Laravel)
+- Task Management System (Spring Boot + React)
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/hamzaosailan  
+LinkedIn: https://linkedin.com/in/your-link  
 Email: hamzaosailan@hotmail.com
