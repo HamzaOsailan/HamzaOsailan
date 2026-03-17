@@ -115,7 +115,7 @@ B.S. in Computer Science | Dec 2017 – Dec 2022
 
 ## 📫 Contact Me
 - Email: [hamzaosailan@hotmail.com](mailto:hamzaosailan@hotmail.com)  
-- LinkedIn: [https://linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- LinkedIn: [https://linkedin.com/in/your-link](https://linkedin.com/in/hamza-osailan)  
 - GitHub: [https://github.com/HamzaOsailan](https://github.com/HamzaOsailan)  
 - Portfolio: [https://hamzaoasilan-net.netlify.app/](https://hamzaoasilan-net.netlify.app/)  
 
